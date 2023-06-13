@@ -1,6 +1,6 @@
 import Hero from "./Hero"
 import Agency from "./Agency"
 import Contact from "./Contact"
-import ShowCase from "./ShowCase"
+import Showcase from "./Showcase"
 
-export { Hero, Agency, ShowCase, Contact }
+export { Hero, Agency, Showcase, Contact }
